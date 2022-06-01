@@ -37,7 +37,9 @@ For a detailed introduction, full list of features and architecture overview ple
 
 ## Table of contents
 
-- [Setup](#setup)
+- [!Juice Shop Logo OWASP Juice Shop](#-owasp-juice-shop)
+  - [Table of contents](#table-of-contents)
+  - [Setup](#setup)
     - [Deploy on Heroku (free ($0/month) dyno)](#deploy-on-heroku-free-0month-dyno)
     - [From Sources](#from-sources)
     - [Packaged Distributions](#packaged-distributions)
@@ -46,17 +48,18 @@ For a detailed introduction, full list of features and architecture overview ple
     - [Amazon EC2 Instance](#amazon-ec2-instance)
     - [Azure Container Instance](#azure-container-instance)
     - [Google Compute Engine Instance](#google-compute-engine-instance)
-- [Demo](#demo)
-- [Documentation](#documentation)
+  - [Demo](#demo)
+  - [Documentation](#documentation)
     - [Node.js version compatibility](#nodejs-version-compatibility)
     - [Troubleshooting](#troubleshooting)
     - [Official companion guide](#official-companion-guide)
-- [Contributing](#contributing)
-- [References](#references)
-- [Merchandise](#merchandise)
-- [Donations](#donations)
-- [Contributors](#contributors)
-- [Licensing](#licensing)
+  - [Contributing](#contributing)
+  - [References](#references)
+  - [Merchandise](#merchandise)
+  - [Donations](#donations)
+  - [Contributors](#contributors)
+  - [Licensing](#licensing)
+  - [Testing GitHub Advanced Security](#testing-github-advanced-security)
 
 ## Setup
 
@@ -318,3 +321,7 @@ OWASP Juice Shop and any contributions are Copyright © by Bjoern Kimminich & th
 2014-2022.
 
 ![Juice Shop Logo](https://raw.githubusercontent.com/bkimminich/juice-shop/master/frontend/src/assets/public/images/JuiceShop_Logo_400px.png)
+
+## Testing GitHub Advanced Security
+
+Doing a little test by following the instructions from [Code scanning in action with Juice Shop](https://resources.github.com/security/tools/ghas-trial/#code-scanning-in-action-with-juice-shop).
